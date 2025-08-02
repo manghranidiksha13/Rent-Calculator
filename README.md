@@ -36,10 +36,10 @@ Here’s a quick overview of what the script does:
 ## Example
 
 **Input:**
-Rent = ₹4000
-Food = ₹3000
-Electricity Units = 100
-Rate per Unit = ₹10
+Rent = ₹4000, 
+Food = ₹3000,
+Electricity Units = 100,
+Rate per Unit = ₹10,
 People = 3
 
 **Output:**
